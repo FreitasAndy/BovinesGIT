@@ -1,2 +1,2 @@
 # BovinesGIT
-Data from analysis of samples from the article "Microbial biomarkers for weight gain in distinctive compartments of the gastrointestinal tract of beef cattle", currently submitted to the PeerJ journal.
+Data from analysis of samples from the project "Relationship of the ruminal microbiome with the nutrition of grazing ruminants".
